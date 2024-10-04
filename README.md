@@ -11,7 +11,8 @@
     "s3_key": "/path/to/your/wisdom.json"
 }
 ```
-4. That's it, now just run `main.py` and enjoy.
+4. If you use Linux, put this in your `~/.bashrc`: `alias stoic='cd path/to/The_Philosophers_Corner/ && python src/main.py'` so the command `stoic` is enough to run the app. (If you don't use Linux ... get Linux)
+5. That's it, now just run `main.py` and enjoy.
 
 ## User Stories - As a user I want to ...
 - [x] See a black background of the Home page so there is less strain on my eyes.
