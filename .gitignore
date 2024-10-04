@@ -1,1 +1,24 @@
 aws.json
+src/wisdom.json
+src/__pycache__
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# AWS credentials and configuration
+.aws/
+config.json
+
+# VSCode
+.vscode/
+
+# Local virtual environments
+venv/
+env/
+.venv/

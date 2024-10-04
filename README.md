@@ -1,6 +1,6 @@
 # The Philosopher's Corner
 
-For personal usage - but if you're into the wisdom I've accumulated throughout the years, just clone this and do this (I assume that you have Python set up and you know a bit of Python):
+**For personal usage - but if you're into the wisdom I've accumulated throughout the years, just clone this and do this (I assume that you have Python set up and you know a bit of Python)**:
 
 1. Set up an AWS account and set up a S3 bucket. Note down the name of your bucket. Crreate any necessary configuration (look up AWS docs if you're stuck).
 2. Upload your finished `wisdom.json` to your S3 bucket.
