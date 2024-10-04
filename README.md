@@ -4,7 +4,7 @@
 
 1. Set up an AWS account and set up a S3 bucket. Note down the name of your bucket. Crreate any necessary configuration (look up AWS docs if you're stuck).
 2. Upload your finished `wisdom.json` to your S3 bucket.
-3. Create `aws.json` and include the following (make sure you put any sensitive info in gitignore):
+3. Create `aws.json` and include the following (make sure you don't put any sensitive info in gitignore):
 ```json
 {
     "bucket_name": "<your-bucket-name>",
